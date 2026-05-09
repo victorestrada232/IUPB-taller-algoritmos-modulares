@@ -1,0 +1,15 @@
+/home/vic/estudio/algoritmos-modulares/bin/Debug/net10.0/algoritmos-modulares
+/home/vic/estudio/algoritmos-modulares/bin/Debug/net10.0/algoritmos-modulares.deps.json
+/home/vic/estudio/algoritmos-modulares/bin/Debug/net10.0/algoritmos-modulares.runtimeconfig.json
+/home/vic/estudio/algoritmos-modulares/bin/Debug/net10.0/algoritmos-modulares.dll
+/home/vic/estudio/algoritmos-modulares/bin/Debug/net10.0/algoritmos-modulares.pdb
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.GeneratedMSBuildEditorConfig.editorconfig
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.AssemblyInfoInputs.cache
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.AssemblyInfo.cs
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.csproj.CoreCompileInputs.cache
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.sourcelink.json
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.dll
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/refint/algoritmos-modulares.dll
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.pdb
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/algoritmos-modulares.genruntimeconfig.cache
+/home/vic/estudio/algoritmos-modulares/obj/Debug/net10.0/ref/algoritmos-modulares.dll
